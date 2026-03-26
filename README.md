@@ -11,6 +11,7 @@ Real time progress
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -19,6 +20,7 @@ Real time progress
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
 | [0322-coin-change](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1143-longest-common-subsequence) |
 ## Array
