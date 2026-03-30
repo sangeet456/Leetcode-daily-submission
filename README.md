@@ -8,6 +8,7 @@ Real time progress
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ Real time progress
 | [0300-longest-increasing-subsequence](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
+| [0560-subarray-sum-equals-k](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0560-subarray-sum-equals-k) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Breadth-First Search
 |  |
@@ -82,4 +84,8 @@ Real time progress
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
