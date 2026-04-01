@@ -11,7 +11,7 @@ return l;
 }
 
     public ListNode removeNthFromEnd(ListNode head, int n) {
-       if(head.next == null|| head == null) return null;
+     
     
         ListNode del=head;
         int size = length(head);
