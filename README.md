@@ -81,6 +81,7 @@ Real time progress
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0283-move-zeroes) |
@@ -95,6 +96,7 @@ Real time progress
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0160-intersection-of-two-linked-lists) |
