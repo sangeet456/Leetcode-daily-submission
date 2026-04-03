@@ -7,6 +7,7 @@ Real time progress
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
@@ -16,6 +17,7 @@ Real time progress
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -26,6 +28,7 @@ Real time progress
 | ------- |
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0322-coin-change) |
@@ -37,6 +40,7 @@ Real time progress
 | ------- |
 | [0048-rotate-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
@@ -117,4 +121,12 @@ Real time progress
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0234-palindrome-linked-list) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
