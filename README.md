@@ -12,6 +12,7 @@ Real time progress
 | [0160-intersection-of-two-linked-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Real time progress
 | [0102-binary-tree-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0322-coin-change) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Real time progress
 | ------- |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -138,14 +141,17 @@ Real time progress
 | [0094-binary-tree-inorder-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
