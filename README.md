@@ -29,6 +29,7 @@ Real time progress
 | ------- |
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0300-longest-increasing-subsequence) |
@@ -144,6 +145,7 @@ Real time progress
 | [0102-binary-tree-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -153,6 +155,7 @@ Real time progress
 | [0094-binary-tree-inorder-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -164,6 +167,7 @@ Real time progress
 | [0102-binary-tree-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
