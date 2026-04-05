@@ -113,6 +113,7 @@ Real time progress
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0021-merge-two-sorted-lists) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0206-reverse-linked-list) |
@@ -128,6 +129,7 @@ Real time progress
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
@@ -145,6 +147,7 @@ Real time progress
 | [0102-binary-tree-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0543-diameter-of-binary-tree) |
@@ -155,6 +158,7 @@ Real time progress
 | [0094-binary-tree-inorder-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0543-diameter-of-binary-tree) |
@@ -167,6 +171,7 @@ Real time progress
 | [0102-binary-tree-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0543-diameter-of-binary-tree) |
