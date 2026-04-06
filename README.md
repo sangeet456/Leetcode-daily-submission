@@ -19,6 +19,7 @@ Real time progress
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -135,6 +136,7 @@ Real time progress
 | [0094-binary-tree-inorder-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
