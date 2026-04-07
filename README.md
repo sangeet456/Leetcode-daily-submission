@@ -30,6 +30,7 @@ Real time progress
 | ------- |
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0198-house-robber) |
@@ -43,6 +44,7 @@ Real time progress
 | ------- |
 | [0048-rotate-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0238-product-of-array-except-self) |
