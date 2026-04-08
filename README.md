@@ -41,6 +41,7 @@ Real time progress
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1143-longest-common-subsequence](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1143-longest-common-subsequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Array
@@ -62,6 +63,7 @@ Real time progress
 | [0322-coin-change](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
 | [0560-subarray-sum-equals-k](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0560-subarray-sum-equals-k) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Breadth-First Search
 |  |
@@ -101,6 +103,7 @@ Real time progress
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Divide and Conquer
 |  |
