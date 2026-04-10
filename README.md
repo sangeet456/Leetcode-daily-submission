@@ -28,6 +28,7 @@ Real time progress
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -47,6 +48,7 @@ Real time progress
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +115,7 @@ Real time progress
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0234-palindrome-linked-list) |
@@ -147,6 +150,7 @@ Real time progress
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0234-palindrome-linked-list) |
@@ -212,4 +216,8 @@ Real time progress
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0098-validate-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
