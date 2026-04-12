@@ -7,6 +7,7 @@ Real time progress
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0160-intersection-of-two-linked-lists) |
@@ -18,6 +19,7 @@ Real time progress
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0242-valid-anagram) |
@@ -54,6 +56,7 @@ Real time progress
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -93,6 +96,7 @@ Real time progress
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
