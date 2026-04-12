@@ -10,6 +10,7 @@ Real time progress
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -19,6 +20,7 @@ Real time progress
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -89,6 +91,7 @@ Real time progress
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
