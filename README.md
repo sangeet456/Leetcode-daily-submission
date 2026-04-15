@@ -19,6 +19,7 @@ Real time progress
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
@@ -55,6 +56,7 @@ Real time progress
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0049-group-anagrams) |
@@ -170,6 +172,7 @@ Real time progress
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 ## Memoization
 |  |
