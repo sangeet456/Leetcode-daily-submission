@@ -1,5 +1,11 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+  // Early exit optimization
+        if (nums1.length == 0) return new int[0];
+        if (nums1.length == 1 && nums2.length == 1) return new int[]{-1};
+
+
+
         HashMap<Integer,Integer> mp = new HashMap<>();
         Stack<Integer> st = new Stack<>();
         
