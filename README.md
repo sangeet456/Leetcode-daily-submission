@@ -80,6 +80,7 @@ Real time progress
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
 | [0560-subarray-sum-equals-k](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1572-matrix-diagonal-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1572-matrix-diagonal-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Breadth-First Search
 |  |
@@ -122,6 +123,7 @@ Real time progress
 | ------- |
 | [0048-rotate-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0085-maximal-rectangle) |
+| [1572-matrix-diagonal-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
 | ------- |
