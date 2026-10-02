@@ -116,6 +116,7 @@ Real time progress
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Matrix
 |  |
 | ------- |
