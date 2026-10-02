@@ -80,6 +80,7 @@ Real time progress
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
 | [0560-subarray-sum-equals-k](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0832-flipping-an-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1572-matrix-diagonal-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Breadth-First Search
@@ -124,6 +125,7 @@ Real time progress
 | ------- |
 | [0048-rotate-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0085-maximal-rectangle) |
+| [0832-flipping-an-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
@@ -147,12 +149,14 @@ Real time progress
 | [0283-move-zeroes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0647-palindromic-substrings) |
+| [0832-flipping-an-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0832-flipping-an-image) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -257,4 +261,8 @@ Real time progress
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0085-maximal-rectangle) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
