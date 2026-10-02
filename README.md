@@ -115,6 +115,7 @@ Real time progress
 | [0231-power-of-two](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0509-fibonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
