@@ -67,6 +67,7 @@ Real time progress
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -151,6 +152,7 @@ Real time progress
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Real time progress
 | [0102-binary-tree-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -263,6 +266,7 @@ Real time progress
 | [0102-binary-tree-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -276,6 +280,7 @@ Real time progress
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
