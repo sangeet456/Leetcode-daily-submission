@@ -82,6 +82,7 @@ Real time progress
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0832-flipping-an-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1572-matrix-diagonal-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Breadth-First Search
@@ -112,6 +113,7 @@ Real time progress
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
 | [0905-sort-array-by-parity](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
@@ -154,6 +156,7 @@ Real time progress
 | [0832-flipping-an-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
