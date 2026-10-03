@@ -82,6 +82,7 @@ Real time progress
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0832-flipping-an-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1572-matrix-diagonal-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -113,6 +114,7 @@ Real time progress
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
 | [0905-sort-array-by-parity](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
@@ -122,6 +124,7 @@ Real time progress
 | [0231-power-of-two](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0509-fibonacci-number) |
+| [0976-largest-perimeter-triangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Matrix
@@ -136,6 +139,7 @@ Real time progress
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0976-largest-perimeter-triangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0976-largest-perimeter-triangle) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 ## Divide and Conquer
 |  |
@@ -271,4 +275,12 @@ Real time progress
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0832-flipping-an-image) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
