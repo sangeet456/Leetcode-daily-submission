@@ -13,6 +13,7 @@ Real time progress
 | [0160-intersection-of-two-linked-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
@@ -79,6 +80,7 @@ Real time progress
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0832-flipping-an-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0832-flipping-an-image) |
@@ -115,6 +117,7 @@ Real time progress
 | [0242-valid-anagram](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0977-squares-of-a-sorted-array) |
