@@ -65,6 +65,7 @@ Real time progress
 | [0049-group-anagrams](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -110,6 +111,7 @@ Real time progress
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
@@ -151,6 +153,7 @@ Real time progress
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0234-palindrome-linked-list) |
