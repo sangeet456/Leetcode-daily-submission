@@ -16,6 +16,7 @@ Real time progress
 | [0442-find-all-duplicates-in-an-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Real time progress
 | [0647-palindromic-substrings](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0647-palindromic-substrings) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1143-longest-common-subsequence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
