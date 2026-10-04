@@ -23,6 +23,7 @@ Real time progress
 | [0014-longest-common-prefix](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0242-valid-anagram) |
