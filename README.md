@@ -21,6 +21,7 @@ Real time progress
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
@@ -205,6 +206,7 @@ Real time progress
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0094-binary-tree-inorder-traversal) |
@@ -300,4 +302,8 @@ Real time progress
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0976-largest-perimeter-triangle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
