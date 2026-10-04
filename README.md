@@ -316,4 +316,12 @@ Real time progress
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0020-valid-parentheses) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
