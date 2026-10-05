@@ -42,6 +42,7 @@ Real time progress
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -135,6 +136,7 @@ Real time progress
 | ------- |
 | [0002-add-two-numbers](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0509-fibonacci-number) |
@@ -228,6 +230,7 @@ Real time progress
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0509-fibonacci-number) |
 ## Tree
