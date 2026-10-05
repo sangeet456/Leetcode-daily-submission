@@ -1,14 +1,14 @@
 
 class Solution {
-      
-      static int size(TreeNode root){
-        if(root == null) return 0;
-        else{
-            return 1+ Math.max(size(root.left) , size(root.right)); 
-        }
-      }
+static int height(TreeNode root){
+    if(root==null) return 0;
+    int lh = height(root.left);
+    int rh = height(root.right);
+    return 1+Math.max(lh,rh);
+}
+
     public int maxDepth(TreeNode root) {
-        return size(root);
+        return height(root);
         
     }
 }
