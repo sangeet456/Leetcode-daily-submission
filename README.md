@@ -99,6 +99,7 @@ Real time progress
 | [1572-matrix-diagonal-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1572-matrix-diagonal-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Real time progress
 | [0300-longest-increasing-subsequence](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0354-russian-doll-envelopes) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Real time progress
 | [0976-largest-perimeter-triangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +187,7 @@ Real time progress
 | [0876-middle-of-the-linked-list](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
