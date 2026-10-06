@@ -98,6 +98,7 @@ Real time progress
 | [0977-squares-of-a-sorted-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1572-matrix-diagonal-sum) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Real time progress
 | [0976-largest-perimeter-triangle](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -329,4 +331,16 @@ Real time progress
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sangeet456/Leetcode-daily-submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
