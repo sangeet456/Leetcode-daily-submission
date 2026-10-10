@@ -1,27 +1,25 @@
 
 class Solution {
-static int length(ListNode head){
-    int l=0;
-    ListNode temp = head;
-    while(temp!=null){
-        temp = temp.next;
-        l++;
-    }
-return l;
-}
-
     public ListNode removeNthFromEnd(ListNode head, int n) {
-     
+        List<Integer> l = new ArrayList<>();
+        ListNode result = new ListNode(0);
+    ListNode temp = head;
+    while(temp !=null){
+        l.add(temp.val);
+        temp = temp.next;
+    }
+    l.remove(l.size()-n);
+
+    temp = result;
+    int idx =0;
     
-        ListNode del=head;
-        int size = length(head);
-        if(size == n) {
-            return head.next;
+        while(idx<l.size()){
+            temp.next = new ListNode(l.get(idx));
+            temp=temp.next;
+            idx++;
         }
-        for(int i=0;i<size-n-1;i++){
-           del = del.next;
-        }
-        del.next = del.next.next;
-return head;    }
-   
+
+
+        
+    return result.next;}
 }
